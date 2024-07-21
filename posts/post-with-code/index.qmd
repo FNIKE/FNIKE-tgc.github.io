@@ -1,0 +1,13 @@
+---
+title: "Analysis of DHS Data"
+author: "Fabrice Sewolo Matondo"
+date: "2024-07-21"
+categories: [code, analysis, r]
+image: "image.jpg"
+---
+
+This was a project using DHS data. You can find the project \[here\](<https://github.com/reginalexavier/OpenLand/tree/main>) {target="\_blank"}
+
+```{r}
+1 + 1
+```

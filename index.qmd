@@ -1,0 +1,18 @@
+---
+title: "Fabrice Sewolo"
+image: Fabrice-picture.jpg
+about:
+  template: jolla
+  links:
+    - icon: twitter
+      text: Twitter
+      href: https://twitter.com/FabriceSewolo
+    - icon: linkedin
+      text: LinkedIn
+      href: https://linkedin.com/fabrice-sewolo
+---
+Fabrice (Matondo) Sewolo is a public health professional with expertise in epidemiology. He has extensive experience in the health field, having worked as a medical analyst, consulting epidemiologist, and technical expert.
+Sewolo holds a Master's degree in Intervention Epidemiology from the Kinshasa School of Public Health and a medical degree from the University of Lubumbashi.
+He is passionate about using data analysis and biostatistics to improve public health and has worked on several initiatives aimed at eradicating diseases such as dracunculiasis , measles, poliomyelitis and other vaccine-preventable diseases.
+He remains open to new opportunities and is enthusiastic about contributing to initiatives that improve the health and well-being of communities.
+---
